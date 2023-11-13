@@ -1,0 +1,11 @@
+var name1 = "Kartik";
+var name2 = "singla";
+a=10;
+b=5;
+c=a+b;
+console.log(name1);
+console.log(name2);
+console.log(a);
+console.log(b);
+console.log(c);
+console.log("My first project on console");
